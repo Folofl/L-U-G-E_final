@@ -1,7 +1,7 @@
 # L-U-G-E_final
 
 Team 9:
-Jeremy SLavitz, Greta Jochem, Alena Borisenko
+Jeremy Slavitz, Greta Jochem, Alena Borisenko
 
 L-U-G-E is a mobile game created in Unity for a Comp 23 project. 
 The game is intended to run on the iPhone. 
