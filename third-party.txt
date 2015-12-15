@@ -1,9 +1,22 @@
+------------------
 Music:
-
-Main theme is Snoman by Jahzzar
+------------------
+Main theme is Snowman by Jahzzar
 http://freemusicarchive.org/music/Jahzzar/Sele/Snowman
 (Creative Commons)
-
+-
 Letter pick up tune
 http://www.freesound.org/people/LittleRobotSoundFactory/sounds/270342/
 (Creative Commons) 
+
+------------------
+Models:
+------------------
+The skybox is free on the Unity asset store.
+https://www.assetstore.unity3d.com/en/#!content/6332
+-
+Snow texture is from Spiral Graphics (royalty-free).
+http://spiralgraphics.biz/packs/snow_ice/?23 
+-
+The flags, the letters, the snow particles and the obstacle orbs were made by Jeremy. 
+Luge and luger models made by Alena. 
